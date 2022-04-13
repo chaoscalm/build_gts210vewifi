@@ -26,7 +26,7 @@ https://github.com/martinknl/local_manifests
 
 https://github.com/martinknl/local_manifests/blob/lineage-17.1/gts210vewifi.xml
 
-save it to: ```~/android/lineage/.repo/local_manifests/gts210vewifi.xml```
+save it to: ```~/android/lineage/.repo/local_manifests/```
 
 then do: ```repo sync```
 
