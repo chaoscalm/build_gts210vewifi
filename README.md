@@ -70,7 +70,7 @@ then do: ```repo sync```
 
 https://forum.xda-developers.com/t/rom-unofficial-10-lineageos-17-1-t713-t719-t813-t819.4070161
 
-**thisisludachris** for building instructions for T713
+**thisisludachris** for building instructions for T713,
 
 https://forum.xda-developers.com/t/guide-how-to-building-lineageos-for-an-unsupported-device.4419263
 
