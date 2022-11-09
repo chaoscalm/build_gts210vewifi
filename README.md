@@ -22,9 +22,7 @@
 
 ## Step 2: Get the device manifest file.
 
-https://github.com/martinknl/local_manifests
-
-https://github.com/martinknl/local_manifests/blob/lineage-17.1/gts210vewifi.xml
+https://github.com/srccrow/gts210vewifi_manifest
 
 save it to: ```~/android/lineage/.repo/local_manifests/```
 
@@ -68,6 +66,16 @@ then do: ```repo sync```
 
 # Credits: 
 
-https://forum.xda-developers.com/t/guide-how-to-building-lineageos-for-an-unsupported-device.4419263
+**ripee** for the rom,
 
 https://forum.xda-developers.com/t/rom-unofficial-10-lineageos-17-1-t713-t719-t813-t819.4070161
+
+**thisisludachris** for building instructions for T713
+
+https://forum.xda-developers.com/t/guide-how-to-building-lineageos-for-an-unsupported-device.4419263
+
+**martinknl** for fixing the manifest in order to allow the compilation,
+
+https://github.com/martinknl/local_manifests
+
+https://github.com/martinknl/local_manifests/blob/lineage-17.1/gts210vewifi.xml
